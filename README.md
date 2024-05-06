@@ -1,6 +1,6 @@
 # FastWeb Technology Solutions
 
-# What is FastWeb?
+## What is FastWeb?
 
 FastWeb is a platform for students to learn about developing, deploying, and monitoring their web applications. 
 
