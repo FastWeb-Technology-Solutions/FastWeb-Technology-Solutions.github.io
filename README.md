@@ -16,8 +16,8 @@ Students can benefit significantly from utilizing FastWeb as it provides them wi
 <img src ="isaiah.jpeg" alt="Isaiah Johnson" style="width:200px; height:150px:">
 - Isaiah Johnson, the CEO and Founder of FastWeb is deeply committed to nurturing the success of his peers. Currently pursuing an undergraduate degree in computer science with a minor in cybersecurity at Shaw University, Isaiah's fervor lies in empowering his colleagues to thrive. This fervent dedication sparked his innovative idea aimed at ensuring the success of students aspiring to embark on careers in IT.
 
-
 <img src ="collin.jpeg" alt="Collin Gentle" style="width:200px; height:150px:">
+- Collin Gentle, serving as the Operations Manager at FastWeb, concurrently pursues a degree in computer science at Shaw University. His unwavering commitment to the company's success is evident through his adept utilization of cutting-edge technologies, exceptional organizational acumen, and a discerning eye for maximizing efficiency.
 ## Contact us Today!
 
 Isaiah Johnson 
