@@ -18,6 +18,7 @@ Students can benefit significantly from utilizing FastWeb as it provides them wi
 
 <img src ="collin.jpeg" alt="Collin Gentle" style="width:200px; height:150px:">
 - Collin Gentle, serving as the Operations Manager at FastWeb, concurrently pursues a degree in computer science at Shaw University. His unwavering commitment to the company's success is evident through his adept utilization of cutting-edge technologies, exceptional organizational acumen, and a discerning eye for maximizing efficiency.
+
 ## Contact us Today!
 
 Isaiah Johnson 
@@ -25,5 +26,5 @@ Isaiah Johnson
 - Phone: (813) 409-0340
 
 Collin Gentle: 
-- Email: cgentle581@bears.shawu.edu, 
+- Email: collingentle@gmail.com
 - Phone: (786) 647-0899
